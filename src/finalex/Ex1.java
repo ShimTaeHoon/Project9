@@ -17,6 +17,7 @@ public class Ex1 {
 		// NUM이 final이라 에러가 남
 //		NUM = 200;
 		
+				
 	}
 
 }
